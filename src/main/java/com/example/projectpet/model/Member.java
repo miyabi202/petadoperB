@@ -23,5 +23,7 @@ public class Member {
 	private String address;
 	private String mobile;
 	private String email;
+	private String username;  // 新增用戶名稱屬性 20240242 yana add
+	private String password; // 新增用戶名稱屬性 20240242 yana add
 
 }
